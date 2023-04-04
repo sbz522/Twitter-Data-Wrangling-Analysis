@@ -5,11 +5,11 @@ WeRateDogs is a Twitter account that posts and rates pictures of dogs. These rat
 # Overview
 The goal of this project was to Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations, and specifically to:
 
-  * Perform data wrangling (gathering, assessing and cleaning) on provided thee sources of data.
-  * Store, analyze, and visualize the wrangled data.
+  * Perform data wrangling (gathering, assessing and cleaning) on provided sources of data.
+  * Store, analyze, and visualize the wrangle data.
   * Report on 1) data wrangling efforts and 
             2) data analyses and visualizations.
 
-In the data wrangling process, I only focus on original tweets by WeRateDogs that have ratings and images. At the end, I also provide a brief analysis using the cleaned data. In the analysis, I aim to answer the following questions:
+In the data wrangling process, I focus on original tweets by WeRateDogs that have ratings and images. At the end, I also provide a brief analysis using the cleaned data. In the analysis, I aim to answer the following questions:
   * What are the most popular dog breeds based on number of posts, interactions by Twitter users, and ratings?
   * Is there any correlation between WeRateDogs's ratings and the interactions by Twitter users?
